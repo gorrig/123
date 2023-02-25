@@ -31,7 +31,7 @@ document.write(day[d.getDay()]+" " +d.getDate()+ " " + month[d.getMonth()]
 
 Адрес: Ленинградское шосее 8 корпус 2 
 
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Acac595bd41886e0da03bcb569c0b46c22a121632da7b20ab92ec322315010d18&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Acac595bd41886e0da03bcb569c0b46c22a121632da7b20ab92ec322315010d18&amp;width=300&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
 
 <a href="https://yandex.ru/maps/?rtext=~55.817088, 37.500388" target="_blank" class="uk-button uk-button-primary">Проложить маршрут на карте</a>
 
