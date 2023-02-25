@@ -1,6 +1,6 @@
 baseURL = 'https://rococo-brigadeiros-e55f83.netlify.app'
 languageCode = 'en-us'
-title = 'Обмен валют на Ленинградке'
+title = 'Обмен валют на Войковской'
 paginate = 3
 theme = 'maverick'
 
