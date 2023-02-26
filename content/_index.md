@@ -26,14 +26,9 @@ document.write(day[d.getDay()]+" " +d.getDate()+ " " + month[d.getMonth()]
 
 # Наши контакты
 
-Телефон: 
+📲 <a href="tel:+7-980-411-42-18">+7-980-411-42-18</a>
 
-<a href="tel:+7-980-411-42-18">+7-980-411-42-18</a>
-
-
-Адрес: 
-
-Ленинградское шоссе 8к2 
+🏛️ Ленинградское шоссе 8к2 
 
 <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Acac595bd41886e0da03bcb569c0b46c22a121632da7b20ab92ec322315010d18&amp;width=300&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
 
